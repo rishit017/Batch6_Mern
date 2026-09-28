@@ -1,7 +1,11 @@
 html, body {
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
     background-color: rgb(121, 209, 247);
+=======
+    background-color: pink;
+>>>>>>> cf72c656cc0250a3da5c05ad7acb92102761df54
     display: flex;
     align-items: center;
     justify-content: center;
