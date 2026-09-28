@@ -1,0 +1,1 @@
+This repo is made for the better unerstanding of git and git hub
